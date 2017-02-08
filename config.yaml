@@ -1,0 +1,31 @@
+repo-add_path: /usr/bin
+source: http://archlinux.cu.be/core/os/x86_64
+repo: core
+dest: /var/repos/archlinux/building
+packages:
+  # base-devel packages
+  - autoconf
+  - automake
+  - binutils
+  - bison
+  - fakeroot
+  - file
+  - findutils
+  - flex
+  - gawk
+  - gcc
+  - gettext
+  - grep
+  - groff
+  - gzip
+  - libtool
+  - m4
+  - make
+  - pacman
+  - patch
+  - pkg-config
+  - sed
+  - sudo
+  - texinfo
+  - util-linux
+  - which
